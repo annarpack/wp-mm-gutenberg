@@ -1,0 +1,186 @@
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+
+/** Default Styles **/
+.wp-block-mm-login-block {
+	padding: 20px;
+}
+
+.wp-block-mm-login-block .form-group {
+	margin-bottom: 15px;
+}
+
+.wp-block-mm-login-block label:not(.mm-remember-me),
+.wp-block-mm-login-block input:not(.mm-remember-me-field) {
+	width: 100%;
+	display: block;
+}
+
+.wp-block-mm-login-block .mm-remember-me {
+	display: flex;
+	align-items: center;
+	line-height: 1;
+	font-size: 14px;
+}
+
+.wp-block-mm-login-block .mm-remember-me input.mm-remember-me-field {
+	margin: 0 5px 0 0;
+	padding: 0;
+}
+
+.wp-block-mm-login-block .no-remember-me {
+	margin-top: 15px;
+}
+
+.wp-block-mm-login-block .forgot-password-link {
+	display: block;
+}
+
+/***** Design Templates *****/
+/* Template 1 - Clean */
+.wp-block-mm-login-block.template1 input {
+	border-radius: 5px;
+	padding: 8px 15px;
+	font-size: 15px;
+	border: 1px solid #ddd;
+	transition: 0.3s ease;
+	-moz-transition: 0.3s ease;
+}
+
+.wp-block-mm-login-block.template1 label {
+	font-size: 15px;
+}
+
+.wp-block-mm-login-block.template1 .mm-remember-me {
+	justify-content: flex-end;
+}
+
+.wp-block-mm-login-block.template1 #mm-login-button.mm-button {
+	border-radius: 5px;
+	padding: 8px 15px;
+	font-size: 15px;
+	font-weight: 700;
+	transition: 0.3s ease;
+	-moz-transition: 0.3s ease;
+	width: 100%;
+	text-shadow: none;
+	background: unset;
+	box-shadow: none;
+}
+
+.wp-block-mm-login-block.template1 #mm-login-button:hover {
+	opacity: 0.7;
+}
+
+.wp-block-mm-login-block.template1 .forgot-password-link {
+	font-size: 14px;
+	text-align: center;
+}
+
+/* Template 2 - Modern */
+.wp-block-mm-login-block.template2 input:not(.mm-remember-me-field) {
+	box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.05);
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	padding: 8px 15px;
+	border-radius: 5px;
+	font-size: 15px;
+	transition: 0.3s ease;
+	-moz-transition: 0.3s ease;
+}
+
+.wp-block-mm-login-block.template2 .mm-remember-me {
+	font-weight: 400;
+}
+
+.wp-block-mm-login-block.template2 input.mm-remember-me-field {
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	border-radius: 5px;
+	font-size: 15px;
+	transition: 0.3s ease;
+	-moz-transition: 0.3s ease;
+}
+
+.wp-block-mm-login-block.template2 input:focus {
+	border-color: #42B0E2;
+}
+
+
+.wp-block-mm-login-block.template2 #mm-login-button.mm-button {
+	box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.1);
+	border-radius: 5px;
+	padding: 8px 15px;
+	font-size: 15px;
+	font-weight: 700;
+	transition: 0.3s ease;
+	-moz-transition: 0.3s ease;
+	width: 100%;
+	text-shadow: none;
+	background: unset;
+}
+
+
+
+.wp-block-mm-login-block.template2 #mm-login-button:hover {
+	opacity: 0.7;
+}
+
+.wp-block-mm-login-block.template2 .forgot-password-link {
+	font-size: 14px;
+	text-align: center;
+}
+
+/* Template 3 - Minimal */
+.wp-block-mm-login-block.template3 label:not(.mm-remember-me) {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	margin: -1px;
+	overflow: hidden;
+	clip: rect(0, 0, 0, 0);
+	border: 0;
+}
+
+.wp-block-mm-login-block.template3 input {
+	border: 2px solid #ddd;
+	padding: 8px 15px;
+	font-size: 15px;
+	background: #ededed;
+	transition: 0.3s ease;
+	-moz-transition: 0.3s ease;
+}
+
+.wp-block-mm-login-block.template3 input:focus {
+	background: #fff;
+	border-color: #5d5d5d;
+}
+
+.wp-block-mm-login-block.template3 .mm-remember-me {
+	justify-content: flex-end;
+}
+
+.wp-block-mm-login-block.template3 #mm-login-button.mm-button {
+	box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.1);
+	border-radius: 5px;
+	border-width: 1px;
+	padding: 8px 15px;
+	font-size: 15px;
+	font-weight: 700;
+	transition: 0.3s ease;
+	-moz-transition: 0.3s ease;
+	width: 100%;
+	text-shadow: none;
+	background: unset;
+}
+
+.wp-block-mm-login-block.template3 #mm-login-button:hover {
+	opacity: 0.7;
+}
+
+.wp-block-mm-login-block.template3 .forgot-password-link {
+	font-size: 14px;
+	text-align: center;
+}

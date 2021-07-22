@@ -1,0 +1,64 @@
+.interface-complementary-area p.mm-gb-label {
+	margin: 20px 0 5px;
+}
+
+.mm-gb-panel-row .mm-gb-subtitle {
+	margin-bottom: 20px;
+}
+
+.wp-block-mm-order-decision-block {
+	border: 1px solid rgba(31, 141, 237, 0.3);
+	transition: 0.3s ease;
+	-moz-transition: 0.3s ease;
+}
+
+.wp-block.is-selected>.wp-block-mm-order-decision-block {
+	border-color: rgba(31, 141, 237, 1);
+}
+
+.wp-block-mm-order-subdecision-block {
+	border: 1px solid rgba(34, 237, 31, 0.3);
+	transition: 0.3s ease;
+	-moz-transition: 0.3s ease;
+}
+
+.wp-block.is-selected>.wp-block-mm-order-subdecision-block {
+	border-color: rgba(34, 237, 31, 1);
+}
+
+.smartTag-badge {
+	max-height: 20px;
+	font-size: 11px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 5px;
+	border-radius: 0 0 0 5px;
+	display: flex;
+	align-items: center;
+	font-weight: 700;
+	justify-content: flex-end;
+	background: rgba(31, 141, 237, 0.3);
+	color: #fff;
+	transition: background 0.3s ease;
+	-moz-transition: 0.3s ease;
+}
+
+.smartTag-badge.subDecision {
+	background: rgba(34, 237, 31, 0.3);
+
+}
+
+.smartTag-badge svg {
+	height: 20px;
+	width: auto;
+	margin-right: 5px;
+}
+
+.wp-block.is-selected>.wp-block-mm-order-decision-block>.smartTag-badge.decision {
+	background: rgba(31, 141, 237, 1);
+}
+
+.wp-block.is-selected>.wp-block-mm-order-subdecision-block>.smartTag-badge.subDecision {
+	background: rgba(34, 237, 31, 1);
+}

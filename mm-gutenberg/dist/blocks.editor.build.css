@@ -1,0 +1,445 @@
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+[aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item,
+[aria-label="My Account Page"].block-editor-block-patterns-list__item {
+  background-color: #1f8ded;
+  -ms-flex-line-pack: center;
+      align-content: center; }
+  [aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item .block-editor-block-preview__container.editor-styles-wrapper,
+  [aria-label="My Account Page"].block-editor-block-patterns-list__item .block-editor-block-preview__container.editor-styles-wrapper {
+    display: none; }
+  [aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item .block-editor-block-patterns-list__item-title,
+  [aria-label="My Account Page"].block-editor-block-patterns-list__item .block-editor-block-patterns-list__item-title {
+    min-height: 200px;
+    -ms-flex-line-pack: center;
+        align-content: center;
+    font-size: 20px;
+    padding-top: 80px;
+    color: #FFF; }
+
+/**
+ * #.# Editor Styles
+ *
+ * CSS for just Backend enqueued after style.scss
+ * which makes it higher in priority.
+ */
+/** Inspector Panel Styles **/
+.mm-gb-padding {
+  padding: 16px; }
+
+.w-mm-gb-header {
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap; }
+
+.mm-gb-header {
+  -ms-flex-preferred-size: 100%;
+      flex-basis: 100%; }
+
+.components-panel__row.mm-gb-panel-row .components-base-control .components-base-control__field {
+  margin-bottom: 0; }
+
+.mm-gb-flex-col {
+  -ms-flex-direction: column;
+      flex-direction: column;
+  -ms-flex-align: start;
+      align-items: flex-start; }
+
+.components-panel__row.mm-gb-panel-row {
+  padding: 10px; }
+
+.components-panel__body .components-panel__row.mm-gb-panel-row {
+  padding: 0; }
+
+/** END Inspector Panel Styles **/
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+[aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item,
+[aria-label="My Account Page"].block-editor-block-patterns-list__item {
+  background-color: #1f8ded;
+  -ms-flex-line-pack: center;
+      align-content: center; }
+  [aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item .block-editor-block-preview__container.editor-styles-wrapper,
+  [aria-label="My Account Page"].block-editor-block-patterns-list__item .block-editor-block-preview__container.editor-styles-wrapper {
+    display: none; }
+  [aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item .block-editor-block-patterns-list__item-title,
+  [aria-label="My Account Page"].block-editor-block-patterns-list__item .block-editor-block-patterns-list__item-title {
+    min-height: 200px;
+    -ms-flex-line-pack: center;
+        align-content: center;
+    font-size: 20px;
+    padding-top: 80px;
+    color: #FFF; }
+
+.mm-gb-panel-row .components-base-control__help {
+  margin-top: 10px; }
+
+.components-panel__row.mm-gb-panel-row .disabled {
+  display: none; }
+
+.viewDocsLink {
+  margin-bottom: 20px; }
+
+.smarttag-preview-input input.components-text-control__input {
+  font-family: 'Courier New', Courier, monospace; }
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+[aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item,
+[aria-label="My Account Page"].block-editor-block-patterns-list__item {
+  background-color: #1f8ded;
+  -ms-flex-line-pack: center;
+      align-content: center; }
+  [aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item .block-editor-block-preview__container.editor-styles-wrapper,
+  [aria-label="My Account Page"].block-editor-block-patterns-list__item .block-editor-block-preview__container.editor-styles-wrapper {
+    display: none; }
+  [aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item .block-editor-block-patterns-list__item-title,
+  [aria-label="My Account Page"].block-editor-block-patterns-list__item .block-editor-block-patterns-list__item-title {
+    min-height: 200px;
+    -ms-flex-line-pack: center;
+        align-content: center;
+    font-size: 20px;
+    padding-top: 80px;
+    color: #FFF; }
+
+.mm-gb-panel-row .components-base-control__help {
+  margin-top: 10px; }
+
+.components-panel__row.mm-gb-panel-row .disabled {
+  display: none; }
+
+.viewDocsLink {
+  margin-bottom: 20px; }
+
+.smarttag-preview-input input.components-text-control__input {
+  font-family: 'Courier New', Courier, monospace; }
+
+.block-editor-block-inspector .components-number-control {
+  margin-bottom: 24px; }
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+[aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item,
+[aria-label="My Account Page"].block-editor-block-patterns-list__item {
+  background-color: #1f8ded;
+  -ms-flex-line-pack: center;
+      align-content: center; }
+  [aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item .block-editor-block-preview__container.editor-styles-wrapper,
+  [aria-label="My Account Page"].block-editor-block-patterns-list__item .block-editor-block-preview__container.editor-styles-wrapper {
+    display: none; }
+  [aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item .block-editor-block-patterns-list__item-title,
+  [aria-label="My Account Page"].block-editor-block-patterns-list__item .block-editor-block-patterns-list__item-title {
+    min-height: 200px;
+    -ms-flex-line-pack: center;
+        align-content: center;
+    font-size: 20px;
+    padding-top: 80px;
+    color: #FFF; }
+
+.interface-complementary-area p.mm-gb-label {
+  margin: 20px 0 5px; }
+
+.mm-gb-panel-row .mm-gb-subtitle {
+  margin-bottom: 20px; }
+
+.wp-block-mm-order-decision-block {
+  border: 1px solid rgba(31, 141, 237, 0.3);
+  -webkit-transition: 0.3s ease;
+  -o-transition: 0.3s ease;
+  transition: 0.3s ease;
+  -moz-transition: 0.3s ease; }
+
+.wp-block.is-selected > .wp-block-mm-order-decision-block {
+  border-color: #1f8ded; }
+
+.wp-block-mm-order-subdecision-block {
+  border: 1px solid rgba(34, 237, 31, 0.3);
+  -webkit-transition: 0.3s ease;
+  -o-transition: 0.3s ease;
+  transition: 0.3s ease;
+  -moz-transition: 0.3s ease; }
+
+.wp-block.is-selected > .wp-block-mm-order-subdecision-block {
+  border-color: #22ed1f; }
+
+.smartTag-badge {
+  max-height: 20px;
+  font-size: 11px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 5px;
+  border-radius: 0 0 0 5px;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+      align-items: center;
+  font-weight: 700;
+  -ms-flex-pack: end;
+      justify-content: flex-end;
+  background: rgba(31, 141, 237, 0.3);
+  color: #fff;
+  -webkit-transition: background 0.3s ease;
+  -o-transition: background 0.3s ease;
+  transition: background 0.3s ease;
+  -moz-transition: 0.3s ease; }
+
+.smartTag-badge.subDecision {
+  background: rgba(34, 237, 31, 0.3); }
+
+.smartTag-badge svg {
+  height: 20px;
+  width: auto;
+  margin-right: 5px; }
+
+.wp-block.is-selected > .wp-block-mm-order-decision-block > .smartTag-badge.decision {
+  background: #1f8ded; }
+
+.wp-block.is-selected > .wp-block-mm-order-subdecision-block > .smartTag-badge.subDecision {
+  background: #22ed1f; }
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+[aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item,
+[aria-label="My Account Page"].block-editor-block-patterns-list__item {
+  background-color: #1f8ded;
+  -ms-flex-line-pack: center;
+      align-content: center; }
+  [aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item .block-editor-block-preview__container.editor-styles-wrapper,
+  [aria-label="My Account Page"].block-editor-block-patterns-list__item .block-editor-block-preview__container.editor-styles-wrapper {
+    display: none; }
+  [aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item .block-editor-block-patterns-list__item-title,
+  [aria-label="My Account Page"].block-editor-block-patterns-list__item .block-editor-block-patterns-list__item-title {
+    min-height: 200px;
+    -ms-flex-line-pack: center;
+        align-content: center;
+    font-size: 20px;
+    padding-top: 80px;
+    color: #FFF; }
+
+.interface-complementary-area p.mm-gb-label {
+  margin: 20px 0 5px; }
+
+.mm-gb-panel-row .mm-gb-subtitle {
+  margin-bottom: 20px; }
+
+.wp-block-mm-member-decision-block {
+  border: 1px solid rgba(31, 141, 237, 0.3);
+  -webkit-transition: 0.3s ease;
+  -o-transition: 0.3s ease;
+  transition: 0.3s ease;
+  -moz-transition: 0.3s ease; }
+
+.wp-block.is-selected > .wp-block-mm-member-decision-block {
+  border-color: #1f8ded; }
+
+.wp-block-mm-order-subdecision-block {
+  border: 1px solid rgba(34, 237, 31, 0.3);
+  -webkit-transition: 0.3s ease;
+  -o-transition: 0.3s ease;
+  transition: 0.3s ease;
+  -moz-transition: 0.3s ease; }
+
+.wp-block.is-selected > .wp-block-mm-member-subdecision-block {
+  border-color: #22ed1f; }
+
+.components-panel__row.mm-gb-panel-row.mm-gb-flex-col.mm-custom {
+  padding-left: 12px;
+  margin-left: 12px; }
+  .components-panel__row.mm-gb-panel-row.mm-gb-flex-col.mm-custom .components-base-control.enabled {
+    padding-left: 12px;
+    margin-left: 12px; }
+
+.smartTag-badge {
+  max-height: 20px;
+  font-size: 11px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 5px;
+  border-radius: 0 0 0 5px;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+      align-items: center;
+  font-weight: 700;
+  -ms-flex-pack: end;
+      justify-content: flex-end;
+  background: rgba(31, 141, 237, 0.3);
+  color: #fff;
+  -webkit-transition: background 0.3s ease;
+  -o-transition: background 0.3s ease;
+  transition: background 0.3s ease;
+  -moz-transition: 0.3s ease; }
+
+.smartTag-badge.subDecision {
+  background: rgba(34, 237, 31, 0.3); }
+
+.smartTag-badge svg {
+  height: 20px;
+  width: auto;
+  margin-right: 5px; }
+
+.wp-block.is-selected > .wp-block-mm-member-decision-block > .smartTag-badge.decision {
+  background: #1f8ded; }
+
+.components-panel__row.mm-gb-panel-row .disabled {
+  display: none; }
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+[aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item,
+[aria-label="My Account Page"].block-editor-block-patterns-list__item {
+  background-color: #1f8ded;
+  -ms-flex-line-pack: center;
+      align-content: center; }
+  [aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item .block-editor-block-preview__container.editor-styles-wrapper,
+  [aria-label="My Account Page"].block-editor-block-patterns-list__item .block-editor-block-preview__container.editor-styles-wrapper {
+    display: none; }
+  [aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item .block-editor-block-patterns-list__item-title,
+  [aria-label="My Account Page"].block-editor-block-patterns-list__item .block-editor-block-patterns-list__item-title {
+    min-height: 200px;
+    -ms-flex-line-pack: center;
+        align-content: center;
+    font-size: 20px;
+    padding-top: 80px;
+    color: #FFF; }
+
+.interface-complementary-area p.mm-gb-label {
+  margin: 20px 0 5px; }
+
+.mm-gb-panel-row .mm-gb-subtitle {
+  margin-bottom: 20px; }
+
+.wp-block-mm-form-block {
+  border: 2px solid rgba(24, 113, 190, 0.3);
+  -webkit-transition: 0.3s ease;
+  -o-transition: 0.3s ease;
+  transition: 0.3s ease;
+  -moz-transition: 0.3s ease; }
+
+.wp-block.is-selected .wp-block-mm-form-block {
+  border: 3px solid #1f8ded; }
+  .wp-block.is-selected .wp-block-mm-form-block .smartTag-badge.decision {
+    background: #1f8ded; }
+
+.smartTag-badge {
+  max-height: 20px;
+  font-size: 11px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 5px;
+  border-radius: 0 0 0 5px;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+      align-items: center;
+  font-weight: 700;
+  -ms-flex-pack: end;
+      justify-content: flex-end;
+  background: rgba(31, 141, 237, 0.3);
+  color: #fff;
+  -webkit-transition: background 0.3s ease;
+  -o-transition: background 0.3s ease;
+  transition: background 0.3s ease;
+  -moz-transition: 0.3s ease; }
+  .smartTag-badge svg {
+    height: 20px;
+    width: auto;
+    margin-right: 5px; }
+
+.wp-block.is-selected > .wp-block-mm-form-block > .smartTag-badge.form {
+  background: #1f8ded; }
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+[aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item,
+[aria-label="My Account Page"].block-editor-block-patterns-list__item {
+  background-color: #1f8ded;
+  -ms-flex-line-pack: center;
+      align-content: center; }
+  [aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item .block-editor-block-preview__container.editor-styles-wrapper,
+  [aria-label="My Account Page"].block-editor-block-patterns-list__item .block-editor-block-preview__container.editor-styles-wrapper {
+    display: none; }
+  [aria-label="Order Confirmation Page"].block-editor-block-patterns-list__item .block-editor-block-patterns-list__item-title,
+  [aria-label="My Account Page"].block-editor-block-patterns-list__item .block-editor-block-patterns-list__item-title {
+    min-height: 200px;
+    -ms-flex-line-pack: center;
+        align-content: center;
+    font-size: 20px;
+    padding-top: 80px;
+    color: #FFF; }
+
+.interface-complementary-area p.mm-gb-label {
+  margin: 20px 0 5px; }
+
+.mm-gb-panel-row .mm-gb-subtitle {
+  margin-bottom: 20px; }
+
+.wp-block-mm-form-block .block-editor-inner-blocks .wp-block .wp-block-mm-form-section-block,
+.wp-block-mm-form-block .block-editor-inner-blocks .wp-block .wp-block-mm-form-subsection-block {
+  padding: 6px;
+  border: 2px solid rgba(34, 237, 31, 0.3);
+  -webkit-transition: 0.3s ease;
+  -o-transition: 0.3s ease;
+  transition: 0.3s ease;
+  -moz-transition: 0.3s ease;
+  min-height: 25px; }
+  .wp-block-mm-form-block .block-editor-inner-blocks .wp-block .wp-block-mm-form-section-block .smartTag-badge,
+  .wp-block-mm-form-block .block-editor-inner-blocks .wp-block .wp-block-mm-form-subsection-block .smartTag-badge {
+    max-height: 20px;
+    font-size: 11px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 5px;
+    border-radius: 0 0 0 5px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+        align-items: center;
+    font-weight: 700;
+    -ms-flex-pack: end;
+        justify-content: flex-end;
+    background: rgba(34, 237, 31, 0.3);
+    color: #fff;
+    -webkit-transition: background 0.3s ease;
+    -o-transition: background 0.3s ease;
+    transition: background 0.3s ease;
+    -moz-transition: 0.3s ease; }
+    .wp-block-mm-form-block .block-editor-inner-blocks .wp-block .wp-block-mm-form-section-block .smartTag-badge svg,
+    .wp-block-mm-form-block .block-editor-inner-blocks .wp-block .wp-block-mm-form-subsection-block .smartTag-badge svg {
+      height: 20px;
+      width: auto;
+      margin-right: 5px; }
+
+.wp-block-mm-form-block .block-editor-inner-blocks .wp-block.is-selected .wp-block-mm-form-section-block {
+  border-color: #22ed1f; }
+  .wp-block-mm-form-block .block-editor-inner-blocks .wp-block.is-selected .wp-block-mm-form-section-block .smartTag-badge.form {
+    background: #22ed1f; }
+
+.parent-type {
+  display: none; }

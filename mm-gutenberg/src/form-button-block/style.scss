@@ -1,0 +1,32 @@
+.mm-gb-update-button a {
+	padding: 4px 12px;
+	border-radius: 4px;
+	font-size: 12px;
+	line-height: 1;
+	text-transform: uppercase;
+	font-weight: 700;
+	transition: 0.3s ease;
+}
+
+.mm-gb-update-button a:hover {
+	opacity: 0.7;
+}
+
+.parent-type {
+	display: none;
+}
+.components-panel a.viewDocsLink ,
+.mm-gb-panel-row .components-external-link,
+a.viewDocsLink {
+	text-align: center;
+	padding-left:20px;
+}
+.mm-gb-panel-row.mm-gb-flex-col.no-border {
+	border: 0;
+}
+.block-editor-block-inspector .components-panel__body {
+	border: 0;
+}
+.components-panel__body.viewDocsLink {
+	padding: 0;
+}
